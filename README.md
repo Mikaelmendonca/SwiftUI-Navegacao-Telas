@@ -23,9 +23,8 @@ Este projeto demonstra a navegação entre telas coloridas no SwiftUI, utilizand
 
 ## 📸 Demonstração  
 
-<p align="center">
-  <img src="screenshots/navegacaoEntreTelas1.png" width="24%">
-  <img src="screenshots/navegacaoEntreTelas2.png" width="24%">
-  <img src="screenshots/navegacaoEntreTelas3.png" width="24%">
-  <img src="screenshots/navegacaoEntreTelas4.png" width="24%">
-</p>
+## 📸 Demonstração  
+
+| Tela 1 | Tela 2 | Tela 3 | Tela 4 |
+|--------|--------|--------|--------|
+| ![Tela 1](screenshots/navegacaoEntreTelas4.png) | ![Tela 2](screenshots/navegacaoEntreTelas3.png) | ![Tela 3](screenshots/navegacaoEntreTelas2.png) | ![Tela 4](screenshots/navegacaoEntreTelas1.png) |

@@ -21,7 +21,6 @@ Este projeto demonstra a navegação entre telas coloridas no SwiftUI, utilizand
 - 📱 **SwiftUI**  
 - 🔗 **NavigationStack & NavigationLink**
 
-## 📸 Demonstração  
 
 ## 📸 Demonstração  
 
